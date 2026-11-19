@@ -38,3 +38,5 @@ writeFileSync(
     app_path_max_bytes: 1000,
   }),
 );
+
+// Cover Forge entry built by @hayunkarimun — the cover maker lives in app/.
